@@ -10,7 +10,6 @@
 
 Dann 45 Min. aufgehen lassen, danach Vierteln und Flechten (siehe Video: https://www.youtube.com/watch?v=eDQ-2JQO4C0)
 
-Colons can be used to align columns.
 
 | Mengen        | Anzahl Zöpfe  | Personen  |
 | ------------- |:-------------:| -----:|
