@@ -24,12 +24,12 @@ Verwendet werden Daten des Stockholm International Peace Research Institute. Die
 Für den finanziellen Wert des Geschäfts hat Sipri eigens den sogenannten Sipri-Trendindikatorwert (TIV) geschaffen. der TIV ist ein Preisindex für die militärischen Fähigkeiten eines gelieferten Artikels, der die militärischen Fähigkeiten jeder Waffe widerspiegeln soll. Diese Methode wird angewandt, damit das Preissystem sowohl für die erfassten Waffensysteme als auch im Zeitverlauf konsistent bleibt.
 
 ## 6. Arbeitslogbuch
-Datenstruktur verstehen (welche Variablen heissen wie, was will ich im Datenset haben etc.): **1 Std.**
-Datenset zusammensetzen: **9 Std.** 
-- zuerst mit RStudio gelöst und so gewusst, wie das Datenset aussehen sollte
-- dann mit Python versucht und schliesslich von einem Kollegen den Hinweis gekriegt, dass Python ein sipri-package kennt, womit man fast analog zu RStudio die Daten ziehen kann & ein Dataframe erstellen kann.
-Datenreinigung: **2 Std.**
-Datenanalyse & Recherche zu einzelnen Waffensystemen: **3 Std.**
-Visualisierung: **1 Std.**
-GitHub Repository & Projektskizze: **3 Std.**
+- Datenstruktur verstehen (welche Variablen heissen wie, was will ich im Datenset haben etc.): **1 Std.**
+- Datenset zusammensetzen: **9 Std.** 
+... zuerst mit RStudio gelöst und so gewusst, wie das Datenset aussehen sollte
+... dann mit Python versucht und schliesslich von einem Kollegen den Hinweis gekriegt, dass Python ein sipri-package kennt, womit man fast analog zu RStudio die Daten ziehen kann & ein Dataframe erstellen kann.
+- Datenreinigung: **2 Std.**
+- Datenanalyse & Recherche zu einzelnen Waffensystemen: **3 Std.**
+- Visualisierung: **1 Std.**
+- GitHub Repository & Projektskizze: **3 Std.**
 **TOTAL:** 19 Std.
