@@ -32,4 +32,4 @@ Für den finanziellen Wert des Geschäfts hat Sipri eigens den sogenannten Sipri
 - Datenanalyse & Recherche zu einzelnen Waffensystemen: **3 Std.**
 - Visualisierung: **1 Std.**
 - GitHub Repository & Projektskizze: **3 Std.**
-**TOTAL:** 19 Std.
+- **TOTAL:** 19 Std.
