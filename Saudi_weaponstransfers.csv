@@ -1,0 +1,167 @@
+,tidn,buyercod,sellercod,odat,odai,onum,onai,ldat,term,desig2,wcat,desc,coprod,nrdel,nrdelai,delyears,buyer,seller,status,tivunit,tivorder,tivdel
+25,58223,SAU,AST,2014,,50,X,2016,LIC,MMV,AV,APC,,50,X,2015-2016,Saudi Arabia,Austria,N,0.14,7,7
+92,58865,SAU,BEL,2014,,119,,0,VIA,Cockerill-3105 105mm,OT,tank turret,L,45,X,2019-2021,Saudi Arabia,Belgium,N,0.8,95.2,36
+93,51518,SAU,BEL,2009,X,84,,2014,N/A,LCTS-90 90mm,OT,tank turret,L,84,X,2011-2014,Saudi Arabia,Belgium,N,0.7,58.8,58.8
+94,58866,SAU,BEL,2014,,119,X,2021,N/A,MCT,OT,IFV turret,,97,X,2019-2021,Saudi Arabia,Belgium,N,0.7,83.3,67.9
+150,58195,SAU,BRA,2014,,10,X,2016,N/A,ASTROS-2000,AR,self-propelled MRL,L,10,X,2016,Saudi Arabia,Brazil,N,1.1,11,11
+177,60967,SAU,BUL,2016,,24,,2017,N/A,BTR-60P,AV,APC,L,24,,2016-2017,Saudi Arabia,Bulgaria,S,0.088,2.112,2.112
+178,60971,SAU,BUL,2015,,2200,X,2017,N/A,Fagot,MI,anti-tank missile,L,2200,X,2015-2017,Saudi Arabia,Bulgaria,N,0.01,22,22
+269,59815,SAU,CAN,2013,,70,X,2016,POLI,Gurkha,AV,APV,L,70,X,2014-2016,Saudi Arabia,Canada,N,0.16,11.2,11.2
+270,61859,SAU,CAN,2016,X,89,X,2018,POLI,Gurkha,AV,APV,L,89,X,2017-2018,Saudi Arabia,Canada,N,0.16,14.24,14.24
+271,31644,SAU,CAN,2014,,385,,0,N/A,LAV-700,AV,APC,,330,X,2018-2021,Saudi Arabia,Canada,N,0.4,154,132
+272,61711,SAU,CAN,2014,,119,,0,N/A,LAV-700 AT,AV,tank destroyer,,37,X,2018-2021,Saudi Arabia,Canada,N,0.65,77.35,24.05
+273,61710,SAU,CAN,2014,,119,,0,N/A,LAV-700 FSV,AV,AFSV,,45,X,2019-2021,Saudi Arabia,Canada,N,1.8,214.2,81
+274,61709,SAU,CAN,2014,,119,,0,N/A,LAV-700 IFV,AV,IFV,,97,X,2019-2021,Saudi Arabia,Canada,N,0.4,47.6,38.8
+275,50697,SAU,CAN,2009,,724,,2015,N/A,Piranha,AV,APC,L,724,X,2011-2015,Saudi Arabia,Canada,N,0.26,188.24,188.24
+276,53566,SAU,CAN,2011,,155,,2015,N/A,Piranha,AV,APC,L,155,X,2015,Saudi Arabia,Canada,N,0.26,40.3,40.3
+277,54806,SAU,CAN,2012,,55,X,2016,N/A,PT6,EN,turboprop/turboshaft,L,55,X,2014-2016,Saudi Arabia,Canada,N,0.5,27.5,27.5
+278,59466,SAU,CAN,2015,,8,X,2018,N/A,PW100,EN,turboprop/turboshaft,L,8,,2015-2018,Saudi Arabia,Canada,N,1,8,8
+543,59476,SAU,CHI,2014,X,5,X,2015,N/A,CH-4B,AC,armed UAV,,5,X,2015,Saudi Arabia,China,N,4,20,20
+544,57183,SAU,CHI,2014,X,15,X,2017,N/A,Wing Loong-1,AC,armed uav,L,15,X,2015-2017,Saudi Arabia,China,N,3,45,45
+545,61358,SAU,CHI,2017,,50,X,0,N/A,Wing Loong-2,AC,armed uav,,45,X,2017-2021,Saudi Arabia,China,N,4,200,180
+737,51517,SAU,FIN,2011,X,36,,2015,N/A,NEMO 120mm,AR,mortar turret,L,36,X,2012-2015,Saudi Arabia,Finland,N,0.6,21.6,21.6
+1002,51049,SAU,FRA,2009,,3,,2015,VIA,A-330 MRTT,AC,tanker/transport ac,L,3,,2014-2015,Saudi Arabia,France,N,98,294,294
+1003,54540,SAU,FRA,2011,,73,X,2015,N/A,Aravis,AV,APC,L,73,X,2013-2015,Saudi Arabia,France,N,0.28,20.44,20.44
+1004,54542,SAU,FRA,2012,,191,,2016,N/A,Aravis,AV,APC,L,191,X,2015-2016,Saudi Arabia,France,N,0.28,53.48,53.48
+1005,62010,SAU,FRA,2013,X,500,X,2018,N/A,ARIVE,AV,APC,,500,X,2016-2018,Saudi Arabia,France,N,0.21,105,105
+1006,63572,SAU,FRA,2019,X,7,,2020,N/A,AS-532 Cougar/AS-332,AC,transport helicopter,L,7,X,2020,Saudi Arabia,France,N,7.25,50.75,50.75
+1007,61145,SAU,FRA,2015,X,71,X,2016,N/A,Bastion,AV,APC/APV,L,71,X,2016,Saudi Arabia,France,N,0.16,11.36,11.36
+1008,55235,SAU,FRA,2011,,32,,2015,ASS,CAESAR 155mm,AR,self-propelled gun,,32,X,2013-2015,Saudi Arabia,France,N,1.06,33.92,33.92
+1009,61988,SAU,FRA,2018,,24,,2018,N/A,CAESAR 155mm,AR,self-propelled gun,,24,X,2018,Saudi Arabia,France,N,1.06,25.44,25.44
+1010,60478,SAU,FRA,2014,X,4,X,2019,N/A,COBRA,GR,arty locating radar,L,4,X,2019,Saudi Arabia,France,N,10,40,40
+1011,50110,SAU,FRA,2007,X,60,X,2017,ASS,Damocles,GR,aircraft EO system,L,60,X,2009-2017,Saudi Arabia,France,N,1,60,60
+1012,59029,SAU,FRA,2015,,10,X,2019,N/A,FLASH,GR,ASW sonar,L,10,X,2018-2019,Saudi Arabia,France,N,1.9,19,19
+1013,55203,SAU,FRA,2011,,20,X,2015,N/A,Ground Master-60,GR,air search radar,L,20,X,2013-2015,Saudi Arabia,France,N,7.5,150,150
+1014,61773,SAU,FRA,2018,,39,,0,LIC,HSI-32,SH,patrol craft,L,30,X,2020-2021,Saudi Arabia,France,N,5,195,150
+1015,63795,SAU,FRA,2020,,19,,0,LIC,HSI-32,SH,patrol craft,L,,,,Saudi Arabia,France,N,5,95,0
+1016,62858,SAU,FRA,2017,X,70,X,2020,N/A,LG1 105mm,AR,towed gun,L,70,,2018-2020,Saudi Arabia,France,N,0.6,42,42
+1017,62366,SAU,FRA,2013,,250,X,2019,N/A,MICA,MI,BVRAAM,L,250,X,2018-2019,Saudi Arabia,France,N,0.4,100,100
+1018,57210,SAU,FRA,2013,X,100,X,2014,N/A,MILAN,MI,anti-tank missile,L,100,X,2014,Saudi Arabia,France,N,0.01,1,1
+1019,55200,SAU,FRA,2011,,800,X,2015,N/A,Mistral,MI,portable SAM,L,800,X,2013-2015,Saudi Arabia,France,N,0.1,80,80
+1020,56253,SAU,FRA,2013,,130,X,2017,N/A,Mistral,MI,portable SAM,L,130,X,2016-2017,Saudi Arabia,France,N,0.1,13,13
+1021,53227,SAU,FRA,2011,,49,X,2015,N/A,MPCV,AD,SPAAG/SAM system,L,49,X,2013-2015,Saudi Arabia,France,N,0.63,30.87,30.87
+1022,59976,SAU,FRA,2016,,100,,2017,N/A,Sherpa,AV,APC/APV,L,100,X,2016-2017,Saudi Arabia,France,N,0.22,22,22
+1023,59975,SAU,FRA,2016,,100,,2020,N/A,VAB MK-3,AV,IFV,,100,X,2019-2020,Saudi Arabia,France,N,1.2,120,120
+1024,56700,SAU,FRA,2013,,5,X,2019,N/A,VL-MICA,AD,SAM system,L,5,X,2018-2019,Saudi Arabia,France,N,20,100,100
+1317,58809,SAU,FRG,2016,,23,,2018,N/A,EC145,AC,light helicopter,,23,X,2017-2018,Saudi Arabia,Germany,N,3.25,74.75,74.75
+1318,50185,SAU,FRG,2014,,15,,2018,N/A,FPB-40,SH,patrol craft,,15,,2016-2018,Saudi Arabia,Germany,N,12,180,180
+1319,37122,SAU,FRG,2009,,1400,X,2014,N/A,IRIS-T,MI,BVRAAM,L,1400,X,2010-2014,Saudi Arabia,Germany,N,0.2,280,280
+1320,62510,SAU,FRG,2018,,20,,0,N/A,MTU-1163,EN,diesel engine,L,,,,Saudi Arabia,Germany,N,2,40,0
+1321,58302,SAU,FRG,2011,,32,X,2014,N/A,OM-366,EN,diesel engine,,32,X,2013-2014,Saudi Arabia,Germany,N,0.04,1.28,1.28
+1322,62013,SAU,FRG,2018,,24,X,2018,N/A,OM-366,EN,diesel engine,,24,X,2018,Saudi Arabia,Germany,N,0.04,0.96,0.96
+1323,54541,SAU,FRG,2011,,73,X,2014,N/A,OM-924,EN,diesel engine,L,73,X,2013-2014,Saudi Arabia,Germany,N,0.02,1.46,1.46
+1324,55805,SAU,FRG,2012,,191,X,2016,N/A,OM-924,EN,diesel engine,L,191,X,2015-2016,Saudi Arabia,Germany,N,0.02,3.82,3.82
+1325,63344,SAU,FRG,2013,X,500,X,2018,N/A,OM-926,EN,diesel engine,,500,X,2016-2018,Saudi Arabia,Germany,N,0.04,20,20
+1326,61271,SAU,FRG,2014,,4,,2014,N/A,Spexer-2000,GR,ground surv radar,L,4,X,2014,Saudi Arabia,Germany,N,0.4,1.6,1.6
+1327,61500,SAU,FRG,2017,X,5,X,0,N/A,TRS-4D,GR,multi-function radar,L,,,,Saudi Arabia,Germany,N,15,75,0
+1407,60224,SAU,GEO,2015,,100,,2017,ASS,Didgori,AV,APV,L,100,X,2016-2017,Saudi Arabia,Georgia,N,0.13,13,13
+1861,56157,SAU,ITA,2013,,2,,2015,N/A,RAT-31S,GR,air search radar,L,2,X,2015,Saudi Arabia,Italy,N,12,24,24
+1862,60042,SAU,ITA,2016,,6,,2017,N/A,RAT-31S,GR,air search radar,L,6,X,2016-2017,Saudi Arabia,Italy,N,12,72,72
+1863,61497,SAU,ITA,2017,X,5,X,0,VIA,Super Rapid 76mm,NW,naval gun,L,,,,Saudi Arabia,Italy,N,2.75,13.75,0
+1864,62504,SAU,ITA,2018,X,5,,0,VIA,Super Rapid 76mm,NW,naval gun,L,,,,Saudi Arabia,Italy,N,2.75,13.75,0
+1865,55204,SAU,ITA,2011,,26,,2016,N/A,X-TAR,GR,air search radar,L,26,X,2015-2016,Saudi Arabia,Italy,N,5,130,130
+2000,62089,SAU,KOS,2017,X,100,X,2018,N/A,Raybolt,MI,anti-tank missile,,100,X,2018,Saudi Arabia,South Korea,N,0.03,3,3
+2125,35100,SAU,NET,2009,,225,X,2015,N/A,SQUIRE,GR,ground surv radar,L,225,X,2011-2015,Saudi Arabia,Netherlands,N,0.5,112.5,112.5
+2526,61397,SAU,RUS,2017,X,10,X,2019,N/A,TOS-1,AR,self-propelled MRL,L,10,,2019,Saudi Arabia,Russia,N,1.2,12,12
+2661,57863,SAU,SA,2013,,5,,2014,N/A,Al Kaser,AV,APC,L,5,X,2014,Saudi Arabia,South Africa,N,0.15,0.75,0.75
+2662,60788,SAU,SA,2016,X,35,X,2020,N/A,Casspir-6,AV,APC,L,35,X,2017-2020,Saudi Arabia,South Africa,N,0.22,7.7,7.7
+2663,57858,SAU,SA,2014,,60,,2017,N/A,LM13,AV,APC/APV,,60,X,2015-2017,Saudi Arabia,South Africa,N,0.22,13.2,13.2
+2699,59932,SAU,SER,2015,,5,X,2015,N/A,M-63 Plamen 128mm,AR,towed MRL,L,5,X,2015,Saudi Arabia,Serbia,S,0.06,0.3,0.3
+2700,63556,SAU,SER,2016,,50,,2016,N/A,OT-64A,AV,APC,L,50,,2016,Saudi Arabia,Serbia,S,0.12,6,6
+2701,60982,SAU,SER,2015,X,847,X,2017,N/A,UBM-52 120mm,AR,mortar,L,847,X,2015-2017,Saudi Arabia,Serbia,S,0.02,16.94,16.94
+2717,57778,SAU,SLK,2012,X,36,X,2016,N/A,BM-21 Grad 122mm,AR,self-propelled MRL,L,36,,2013-2016,Saudi Arabia,Slovakia,S,0.18,6.48,6.48
+2718,64751,SAU,SLK,2015,X,42,X,2020,N/A,M12 120mm,AR,mortar,,42,,2019-2020,Saudi Arabia,Slovakia,N,0.06,2.52,2.52
+2781,61762,SAU,SPA,2017,,100,,2020,N/A,Alakran 120mm,AR,self-propelled mortar,,100,,2020,Saudi Arabia,Spain,N,0.2,20,20
+2782,59619,SAU,SPA,2018,,5,,0,N/A,Avante-2200,SH,frigate,,,,,Saudi Arabia,Spain,N,0,0,0
+2783,58768,SAU,SPA,2015,,2,,2017,POLI,C-295,AC,transport aircraft,L,2,,2015-2017,Saudi Arabia,Spain,N,12,24,24
+2784,61570,SAU,SPA,2015,,2,,2018,POLI,C-295MPA,AC,MP aircraft,L,2,,2018,Saudi Arabia,Spain,N,21.5,43,43
+2877,64823,SAU,SWE,2017,,5,,0,N/A,CEROS-200,GR,fire control radar,L,,,,Saudi Arabia,Sweden,N,2.5,12.5,0
+2878,61283,SAU,SWE,2015,X,71,,2016,N/A,MD5,EN,diesel engine,L,71,X,2016,Saudi Arabia,Sweden,N,0.02,1.42,1.42
+2879,52443,SAU,SWE,2010,,2,,2014,N/A,Saab-2000 AEW,AC,AEW&C aircraft,L,2,,2014,Saudi Arabia,Sweden,N,80,160,160
+2962,62505,SAU,SWI,2018,,5,,0,N/A,GDM-008 35mm,NW,CIWS,L,,,,Saudi Arabia,Switzerland,N,4,20,0
+2963,54805,SAU,SWI,2012,,55,,2016,VIA,PC-21,AC,trainer aircraft,L,55,,2014-2016,Saudi Arabia,Switzerland,N,4.9,269.5,269.5
+2964,61151,SAU,SWI,2017,X,2,X,2019,N/A,Skyguard,GR,fire control radar,L,2,X,2019,Saudi Arabia,Switzerland,N,5,10,10
+3054,63242,SAU,TUR,2020,,46,X,0,LIC,Karayel,AC,armed uav,,6,X,2020-2021,Saudi Arabia,Turkey,N,1.5,69,9
+3055,34963,SAU,TUR,2013,X,350,X,2017,ASS,M-113A300,AV,APC,,350,X,2015-2017,Saudi Arabia,Turkey,N,0.26,91,91
+3056,53375,SAU,TUR,2011,,320,X,2015,ASS,M-113A300,AV,APC,,320,X,2013-2015,Saudi Arabia,Turkey,N,0.26,83.2,83.2
+3243,53612,SAU,UK,2009,,3,,2015,VIA,Air refuel system,OT,air refuel system,L,3,X,2014-2015,Saudi Arabia,United Kingdom,N,10,30,30
+3244,37121,SAU,UK,2015,X,1000,X,2019,N/A,Brimstone,MI,ASM,L,1000,X,2016-2019,Saudi Arabia,United Kingdom,N,0.15,150,150
+3245,33909,SAU,UK,2012,,22,,2017,N/A,Hawk-100,AC,trainer/combat ac,L,22,,2016-2017,Saudi Arabia,United Kingdom,N,10,220,220
+3246,59596,SAU,UK,2015,,22,,2021,ASS,Hawk-100,AC,trainer/combat ac,L,22,X,2019-2021,Saudi Arabia,United Kingdom,N,10,220,220
+3247,39353,SAU,UK,2015,X,0,,0,N/A,Meteor,MI,BVRAAM,L,20,X,2018,Saudi Arabia,United Kingdom,N,0.8,0,16
+3248,61499,SAU,UK,2017,,8,,0,N/A,MT-30,EN,gas turbine,L,,,,Saudi Arabia,United Kingdom,N,12,96,0
+3249,40082,SAU,UK,2013,,2400,X,2015,N/A,Paveway,MI,guided bomb,L,2400,X,2015,Saudi Arabia,United Kingdom,N,0.02,48,48
+3250,56387,SAU,UK,2013,,100,X,2017,N/A,Storm Shadow/SCALP,MI,ASM,L,100,X,2016-2017,Saudi Arabia,United Kingdom,N,1.4,140,140
+3251,58807,SAU,UK,2007,,24,,2017,N/A,Typhoon Block-20,AC,FGA aircraft,L,24,,2015-2017,Saudi Arabia,United Kingdom,N,57.5,1380,1380
+3252,31041,SAU,UK,2007,,48,,2015,N/A,Typhoon Block-8,AC,FGA aircraft,L,48,X,2009-2015,Saudi Arabia,United Kingdom,N,55,2640,2640
+3322,59921,SAU,UKR,2016,,,,0,LIC,Grom-2,MI,SSM,,,,,Saudi Arabia,Ukraine,N,0,0,0
+3323,64758,SAU,UKR,2017,X,1204,X,2019,N/A,R-2,MI,anti-tank missile,L,1204,X,2018-2019,Saudi Arabia,Ukraine,N,0.04,48.16,48.16
+3324,64757,SAU,UKR,2017,X,1806,,2019,N/A,R-3 Korsar,MI,anti-tank missile,L,1806,X,2018-2019,Saudi Arabia,Ukraine,N,0.02,36.12,36.12
+4473,18701,SAU,USA,2009,,724,X,2015,N/A,6V-53,EN,diesel engine,L,724,X,2011-2015,Saudi Arabia,United States,N,0.04,28.96,28.96
+4474,53377,SAU,USA,2011,,670,X,2017,N/A,6V-53,EN,diesel engine,L,670,X,2013-2017,Saudi Arabia,United States,N,0.04,26.8,26.8
+4475,54388,SAU,USA,2011,,155,X,2015,N/A,6V-53,EN,diesel engine,L,155,X,2015,Saudi Arabia,United States,N,0.04,6.2,6.2
+4476,52497,SAU,USA,2011,X,193,X,0,N/A,AAQ-13 LANTIRN,GR,combat ac radar,L,154,X,2016-2021,Saudi Arabia,United States,N,1,193,154
+4477,52498,SAU,USA,2012,,158,X,0,N/A,AAQ-33 Sniper,GR,aircraft EO system,L,92,X,2016-2021,Saudi Arabia,United States,N,1,158,92
+4478,54396,SAU,USA,2011,X,2592,X,2014,N/A,AGM-114L HELLFIRE,MI,anti-tank missile,L,2592,X,2013-2014,Saudi Arabia,United States,N,0.07,181.44,181.44
+4479,58434,SAU,USA,2014,,2176,X,2016,N/A,AGM-114L HELLFIRE,MI,anti-tank missile,L,2176,X,2015-2016,Saudi Arabia,United States,N,0.07,152.32,152.32
+4480,56578,SAU,USA,2014,,355,X,2018,N/A,AGM-154 JSOW,MI,guided bomb,L,355,X,2016-2018,Saudi Arabia,United States,N,0.2,71,71
+4481,61505,SAU,USA,2017,,618,,0,N/A,AGM-154 JSOW,MI,guided bomb,L,525,X,2019-2021,Saudi Arabia,United States,N,0.2,123.6,105
+4482,56577,SAU,USA,2018,X,650,X,0,N/A,AGM-84H SLAM-ER,MI,ASM,L,50,X,2021,Saudi Arabia,United States,N,1.25,812.5,62.5
+4483,52505,SAU,USA,2011,X,600,X,0,N/A,AGM-88 HARM,MI,ARM,L,400,X,2018-2021,Saudi Arabia,United States,N,0.25,150,100
+4484,35833,SAU,USA,2009,X,12,,2015,N/A,AH-64E Apache,AC,combat helicopter,,12,X,2014-2015,Saudi Arabia,United States,N,15,180,180
+4485,52509,SAU,USA,2012,X,12,,2015,N/A,AH-64E Apache,AC,combat helicopter,,12,X,2015,Saudi Arabia,United States,N,15,180,180
+4486,54344,SAU,USA,2011,X,24,X,2016,N/A,AH-64E Apache,AC,combat helicopter,,24,X,2015-2016,Saudi Arabia,United States,N,15,360,360
+4487,59886,SAU,USA,2015,,24,,0,N/A,AH-64E Apache,AC,combat helicopter,,20,X,2021,Saudi Arabia,United States,N,15,360,300
+4488,52513,SAU,USA,2014,,24,,2018,N/A,AH-6S,AC,combat helicopter,L,24,X,2016-2018,Saudi Arabia,United States,N,4,96,96
+4489,52501,SAU,USA,2013,,500,X,2019,N/A,AIM-120C AMRAAM,MI,BVRAAM,L,500,X,2015-2019,Saudi Arabia,United States,N,0.6,300,300
+4490,52500,SAU,USA,2011,X,300,X,2019,N/A,AIM-9X Sidewinder,MI,BVRAAM,L,300,X,2012-2019,Saudi Arabia,United States,N,0.18,54,54
+4491,52512,SAU,USA,2010,X,37,X,2016,N/A,APG-78 Longbow,GR,combat heli radar,L,37,X,2014-2016,Saudi Arabia,United States,N,3,111,111
+4492,57033,SAU,USA,2014,X,4941,X,2018,N/A,BGM-71F TOW-2B,MI,anti-tank missile,L,4941,X,2015-2018,Saudi Arabia,United States,N,0.02,98.82,98.82
+4493,57034,SAU,USA,2014,,10747,X,2018,N/A,BGM-71 TOW,MI,anti-tank missile,L,10747,X,2015-2018,Saudi Arabia,United States,N,0.01,107.47,107.47
+4494,62535,SAU,USA,2014,,742,X,0,N/A,C13,EN,diesel engine,,665,X,2018-2021,Saudi Arabia,United States,N,0.15,111.3,99.75
+4495,52504,SAU,USA,2013,,1300,X,2015,N/A,CBU-97 SFW,MI,guided bomb,L,1300,X,2014-2015,Saudi Arabia,United States,N,0.15,195,195
+4496,53610,SAU,USA,2009,,6,X,2015,VIA,CF6/F-103,EN,turbofan,L,6,X,2014-2015,Saudi Arabia,United States,N,6,36,36
+4497,60486,SAU,USA,2017,,8,,0,N/A,CH-47F Chinook,AC,transport helicopter,L,4,X,2021,Saudi Arabia,United States,N,20,160,80
+4498,52499,SAU,USA,2012,,10,X,2016,N/A,DB-110,GR,aircraft recce system,L,10,X,2014-2016,Saudi Arabia,United States,N,4,40,40
+4499,52507,SAU,USA,2012,X,25,X,2019,N/A,F110,EN,turbofan,L,25,X,2017-2019,Saudi Arabia,United States,N,3.25,81.25,81.25
+4500,50311,SAU,USA,2011,,84,,2020,N/A,F-15 Advanced Eagle,AC,FGA aircraft,L,84,X,2016-2020,Saudi Arabia,United States,N,75,6300,6300
+4501,54361,SAU,USA,2011,,68,,0,MOD,F-15 Advanced Eagle,AC,FGA aircraft,L,17,X,2016-2021,Saudi Arabia,United States,N,69,4692,1173
+4502,56581,SAU,USA,2013,X,1000,X,2021,N/A,GBU-39 SDB,MI,guided bomb,L,1000,X,2017-2021,Saudi Arabia,United States,N,0.02,20,20
+4503,52506,SAU,USA,2012,X,400,X,2020,N/A,Harpoon Block-2,MI,anti-ship missile/SSM,L,400,X,2016-2020,Saudi Arabia,United States,N,1,400,400
+4504,56579,SAU,USA,2016,X,402,,0,N/A,Harpoon Block-2,MI,anti-ship missile/SSM,L,110,X,2020-2021,Saudi Arabia,United States,N,1,402,110
+4505,52503,SAU,USA,2012,,600,,2016,N/A,JDAM,MI,guided bomb,L,600,X,2016,Saudi Arabia,United States,N,0.02,12,12
+4506,59375,SAU,USA,2016,,2645,X,2018,N/A,JDAM,MI,guided bomb,L,2645,X,2018,Saudi Arabia,United States,N,0.02,52.9,52.9
+4507,55555,SAU,USA,2013,,2,,2016,N/A,KC-130J Hercules,AC,tanker/transport ac,L,2,,2016,Saudi Arabia,United States,N,45,90,90
+4508,55404,SAU,USA,2012,,9,X,2014,N/A,King Air,AC,light transport ac,L,9,X,2013-2014,Saudi Arabia,United States,N,2.85,25.65,25.65
+4509,55387,SAU,USA,2012,X,4,,2016,N/A,King Air-350 ISR,AC,AGS aircraft,L,4,X,2015-2016,Saudi Arabia,United States,N,11,44,44
+4510,59767,SAU,USA,2016,,2,X,2020,N/A,King Air-350 ISR,AC,AGS aircraft,L,2,X,2019-2020,Saudi Arabia,United States,N,11,22,22
+4511,51519,SAU,USA,2009,X,264,,2015,N/A,LAV-25 turret,OT,IFV turret,L,264,X,2011-2015,Saudi Arabia,United States,N,0.6,158.4,158.4
+4512,38996,SAU,USA,2008,,59,X,2014,N/A,M-1A2S,AV,tank,L,59,X,2012-2014,Saudi Arabia,United States,N,5,295,295
+4513,59277,SAU,USA,2009,,314,X,2017,N/A,M-1A2S,AV,tank,L,314,X,2012-2017,Saudi Arabia,United States,N,5,1570,1570
+4514,59925,SAU,USA,2016,,153,,2020,N/A,M-1A2S,AV,tank,L,153,X,2018-2020,Saudi Arabia,United States,N,5,765,765
+4515,59926,SAU,USA,2016,X,20,X,2020,N/A,M-88A2 HERCULES,AV,ARV,L,20,X,2019-2020,Saudi Arabia,United States,N,2,40,40
+4516,56730,SAU,USA,2013,,534,X,2016,N/A,M-ATV,AV,APV,L,534,X,2014-2016,Saudi Arabia,United States,N,0.25,133.5,133.5
+4517,59017,SAU,USA,2015,X,1325,X,2017,N/A,M-ATV,AV,APV,L,1325,X,2016-2017,Saudi Arabia,United States,N,0.25,331.25,331.25
+4518,59028,SAU,USA,2015,,10,,2019,N/A,MH-60R Seahawk,AC,ASW helicopter,L,10,X,2018-2019,Saudi Arabia,United States,N,16.1,161,161
+4519,37548,SAU,USA,2015,,320,X,2019,N/A,MIM-104F PAC-3,MI,ABM,L,320,X,2017-2019,Saudi Arabia,United States,N,1,320,320
+4520,62523,SAU,USA,2018,,,,0,N/A,MIM-104F PAC-3,MI,ABM,L,,,,Saudi Arabia,United States,N,1,0,0
+4521,62525,SAU,USA,2017,,130,,2020,N/A,MIM-104F PAC-3,MI,ABM,L,130,X,2020,Saudi Arabia,United States,N,1,130,130
+4522,62527,SAU,USA,2018,,,,0,N/A,MIM-104F PAC-3,MI,ABM,L,,,,Saudi Arabia,United States,N,1,0,0
+4523,62508,SAU,USA,2018,X,5,,0,N/A,Mk-41 VLS,NW,naval SAM system,L,,,,Saudi Arabia,United States,N,20,100,0
+4524,39253,SAU,USA,2017,,4,,0,N/A,MMSC,SH,frigate,,,,,Saudi Arabia,United States,N,0,0,0
+4525,54225,SAU,USA,2011,,21,,2017,MOD,Patriot Configuration-3,AD,SAM/ABM system,L,21,X,2014-2017,Saudi Arabia,United States,N,55,1155,1155
+4526,58706,SAU,USA,2015,,3,X,2019,N/A,Patriot Configuration-3,AD,SAM/ABM system,L,3,X,2017-2019,Saudi Arabia,United States,N,55,165,165
+4527,52502,SAU,USA,2011,X,3100,X,2016,N/A,Paveway,MI,guided bomb,L,3100,X,2013-2016,Saudi Arabia,United States,N,0.02,62,62
+4528,59034,SAU,USA,2015,,8120,X,2017,N/A,Paveway,MI,guided bomb,L,8120,X,2016-2017,Saudi Arabia,United States,N,0.02,162.4,162.4
+4529,61005,SAU,USA,2019,,20000,X,2020,N/A,Paveway,MI,guided bomb,L,20000,X,2019-2020,Saudi Arabia,United States,N,0.02,400,400
+4530,64319,SAU,USA,2019,,4000,X,0,ASS,Paveway,MI,guided bomb,L,500,X,2020,Saudi Arabia,United States,N,0.02,80,10
+4531,60674,SAU,USA,2017,,10,X,0,N/A,PTDS,GR,AGS aerostat,L,,,,Saudi Arabia,United States,N,0,0,0
+4532,61498,SAU,USA,2017,X,100,X,0,N/A,RIM-116A RAM,MI,SAM,L,,,,Saudi Arabia,United States,N,0.14,14,0
+4533,61496,SAU,USA,2017,X,512,X,0,N/A,RIM-162 ESSM,MI,SAM,L,,,,Saudi Arabia,United States,N,0.4,204.8,0
+4534,52514,SAU,USA,2012,,24,,2015,N/A,S-70/UH-60L,AC,helicopter,L,24,X,2014-2015,Saudi Arabia,United States,N,7.25,174,174
+4535,55517,SAU,USA,2011,,12,,2014,MOD,S-70/UH-60L,AC,helicopter,L,12,X,2013-2014,Saudi Arabia,United States,N,7.25,87,87
+4536,55518,SAU,USA,2017,,57,X,0,N/A,S-70/UH-60L,AC,helicopter,L,40,X,2018-2021,Saudi Arabia,United States,N,7.25,413.25,290
+4537,59303,SAU,USA,2016,,9,,2017,N/A,S-70/UH-60L,AC,helicopter,L,9,X,2017,Saudi Arabia,United States,N,7.25,65.25,65.25
+4538,58571,SAU,USA,2018,,7,,0,N/A,THAAD,AD,ABM system,L,,,,Saudi Arabia,United States,N,250,1750,0
+4539,62581,SAU,USA,2018,,360,,0,N/A,THAAD missile,MI,ABM missile,L,,,,Saudi Arabia,United States,N,4,1440,0
+4540,60606,SAU,USA,2014,,60,X,2017,N/A,VT-400,EN,diesel engine,L,60,X,2015-2017,Saudi Arabia,United States,N,0.08,4.8,4.8
