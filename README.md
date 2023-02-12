@@ -20,5 +20,16 @@ Die eigentliche Auswertung und Analyse ist dann schnell gemacht, wenn das Datens
 Zu der Idee, einmal einen Blick auf Saudiarabien zu werfen, gab es kein Briefing-Gespräch.
 
 ## 5. Datenquelle 
-Verwendet werden Daten des Stockholm International Peace Research Institute. Die Organisation dokumentiert weltweit Militärausgaben und Waffengeschäfte. Für das vorliegende Projekt wurde das Arms trade register verwendet. Die Datenbank für Waffentransfers enthält Informationen über alle Transfers wichtiger konventioneller Waffen von 1950 bis zum letzten vollen Kalenderjahr. Die Angaben zu den einzelnen Waffendeals umfassen die Lieferanten und Empfänger, den Typ und die Anzahl der bestellten und gelieferten Waffensysteme, die Jahre der Lieferungen und den finanziellen Wert des Geschäfts.
+Verwendet werden Daten des Stockholm International Peace Research Institute. Die Organisation dokumentiert weltweit Militärausgaben und Waffengeschäfte. Für das vorliegende Projekt wurde hauptsächlich das Arms trade register verwendet. Die Datenbank für Waffentransfers enthält Informationen über alle Transfers wichtiger konventioneller Waffen von 1950 bis zum letzten vollen Kalenderjahr. Die Angaben zu den einzelnen Waffendeals umfassen die Lieferanten und Empfänger, den Typ und die Anzahl der bestellten und gelieferten Waffensysteme, die Jahre der Lieferungen und den finanziellen Wert des Geschäfts.
 Für den finanziellen Wert des Geschäfts hat Sipri eigens den sogenannten Sipri-Trendindikatorwert (TIV) geschaffen. der TIV ist ein Preisindex für die militärischen Fähigkeiten eines gelieferten Artikels, der die militärischen Fähigkeiten jeder Waffe widerspiegeln soll. Diese Methode wird angewandt, damit das Preissystem sowohl für die erfassten Waffensysteme als auch im Zeitverlauf konsistent bleibt.
+
+## 6. Arbeitslogbuch
+Datenstruktur verstehen (welche Variablen heissen wie, was will ich im Datenset haben etc.): **1 Std.**
+Datenset zusammensetzen: **9 Std.** 
+- zuerst mit RStudio gelöst und so gewusst, wie das Datenset aussehen sollte
+- dann mit Python versucht und schliesslich von einem Kollegen den Hinweis gekriegt, dass Python ein sipri-package kennt, womit man fast analog zu RStudio die Daten ziehen kann & ein Dataframe erstellen kann.
+Datenreinigung: **2 Std.**
+Datenanalyse & Recherche zu einzelnen Waffensystemen: **3 Std.**
+Visualisierung: **1 Std.**
+GitHub Repository & Projektskizze: **3 Std.**
+**TOTAL:** 19 Std.
